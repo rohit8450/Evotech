@@ -1,0 +1,105 @@
+.brivibaSaas,
+.phpSqliteArtisan {
+  position: absolute;
+  top: 21px;
+  left: 54px;
+  font-weight: 500;
+}
+.brivibaSaas {
+  top: 0;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.item1,
+.item2,
+.item3,
+.item4,
+.item5 {
+  position: absolute;
+  top: 352px;
+  left: 30px;
+  width: 208px;
+  height: 41px;
+}
+.item1,
+.item2,
+.item3,
+.item4 {
+  top: 282px;
+}
+.item1,
+.item2,
+.item3 {
+  top: 212px;
+}
+.item1,
+.item2 {
+  top: 142px;
+}
+.item1 {
+  top: 72px;
+}
+.dotsChild {
+  top: 0;
+  right: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-silver-100);
+  width: 6px;
+}
+.dots,
+.dotsChild,
+.dotsItem {
+  position: absolute;
+  height: 6px;
+}
+.dotsItem {
+  top: 0;
+  right: 11px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-silver-200);
+  width: 6px;
+}
+.dots {
+  top: 11px;
+  right: 0;
+  width: 17px;
+}
+.salesProgress {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.head,
+.salesProgress,
+.widget5 {
+  position: absolute;
+}
+.head {
+  top: 23px;
+  right: 31px;
+  width: 414px;
+  height: 26px;
+  font-size: var(--font-size-mid);
+  color: var(--color-gray-100);
+}
+.widget5 {
+  top: 376px;
+  left: 1px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 474px;
+  height: 495px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver-100);
+  font-family: var(--font-poppins);
+}

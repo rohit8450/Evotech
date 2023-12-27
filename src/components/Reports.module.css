@@ -1,0 +1,198 @@
+.background {
+  position: absolute;
+  height: calc(100% - 0.3px);
+  width: calc(100% + 0.1px);
+  top: 0;
+  right: -0.1px;
+  bottom: 0.3px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-lightcyan-200);
+}
+.bugReports {
+  position: absolute;
+  top: 145.3px;
+  left: 43.9px;
+  line-height: 21px;
+  font-weight: 500;
+}
+.stockholmIconsCommunicatio {
+  position: absolute;
+  top: 31.3px;
+  left: 62.9px;
+  width: 107.9px;
+  height: 108.7px;
+  object-fit: cover;
+}
+.cart4 {
+  position: absolute;
+  top: calc(50% + 16.7px);
+  left: calc(50% + 16.1px);
+  width: 232.9px;
+  height: 211.3px;
+}
+.background1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-mistyrose-100);
+}
+.itemOrders {
+  position: absolute;
+  top: 146.3px;
+  left: 44px;
+  line-height: 21px;
+  font-weight: 500;
+  opacity: 0.35;
+}
+.compilingIcon {
+  position: absolute;
+  width: 52.38%;
+  top: calc(50% - 85.35px);
+  right: 24%;
+  left: 23.62%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 112px;
+  object-fit: cover;
+}
+.cart3 {
+  position: absolute;
+  top: calc(50% + 16.7px);
+  left: calc(50% - 249px);
+  width: 232.9px;
+  height: 211.3px;
+  color: var(--color-crimson-100);
+}
+.background2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-lavender);
+}
+.newUsers {
+  position: absolute;
+  top: 153px;
+  left: 58.9px;
+  line-height: 21px;
+  font-weight: 500;
+  opacity: 0.35;
+}
+.addUserIcon {
+  position: absolute;
+  width: 45.08%;
+  top: calc(50% - 87.65px);
+  right: 25.33%;
+  left: 29.58%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 108px;
+  object-fit: cover;
+}
+.cart2 {
+  position: absolute;
+  top: calc(50% - 228px);
+  left: calc(50% + 16.1px);
+  width: 232.9px;
+  height: 211.3px;
+  color: var(--color-blueviolet-100);
+}
+.background3 {
+  border-radius: var(--br-xs);
+  background-color: var(--color-papayawhip);
+}
+.background3,
+.bound {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle62Copy,
+.rectangle62Copy2,
+.rectangle62Copy3,
+.rectangle62Copy4 {
+  position: absolute;
+  width: 12.52%;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-orange);
+}
+.rectangle62Copy {
+  height: 66.67%;
+  top: 16.67%;
+  right: 33.3%;
+  bottom: 16.67%;
+  left: 54.17%;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.rectangle62Copy2,
+.rectangle62Copy3,
+.rectangle62Copy4 {
+  height: 45.88%;
+  top: 37.55%;
+  right: 54.17%;
+  bottom: 16.57%;
+  left: 33.3%;
+}
+.rectangle62Copy3,
+.rectangle62Copy4 {
+  height: 37.55%;
+  top: 45.88%;
+  right: 12.43%;
+  left: 75.04%;
+}
+.rectangle62Copy3 {
+  height: 29.22%;
+  top: 54.22%;
+  right: 74.96%;
+  left: 12.52%;
+}
+.equalizer {
+  position: absolute;
+  width: 49.38%;
+  top: calc(50% - 76.65px);
+  right: 25.72%;
+  left: 24.9%;
+  height: 102px;
+}
+.weeklySales {
+  position: absolute;
+  top: 154px;
+  left: 36px;
+  line-height: 21px;
+  font-weight: 500;
+  opacity: 0.24;
+}
+.cart1,
+.carts {
+  position: absolute;
+  top: calc(50% - 228px);
+  left: calc(50% - 249px);
+  width: 232.9px;
+  height: 211.3px;
+  color: var(--color-saddlebrown);
+}
+.carts {
+  top: calc(50% + 397.5px);
+  left: calc(50% + 368.5px);
+  width: 498px;
+  height: 456px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-cadetblue);
+  font-family: var(--font-poppins);
+}
